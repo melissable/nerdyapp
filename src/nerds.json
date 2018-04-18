@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "carson.jpg"
+    },
+    {
+      "id": 2,
+      "image": "curie.jpeg"    
+    },
+    {
+      "id": 3,
+      "image": "faraday.jpg"
+    },
+    {
+      "id": 4,
+      "image": "frohman.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "hawking.jpg"
+    },
+    {
+      "id": 6,
+      "image": "hopper.jpg"
+    },
+    {
+      "id": 7,
+      "image": "lovelace.jpg"
+    },
+    {
+      "id": 8,
+      "image": "mirzakhani.jpg"
+    },
+    {
+      "id": 9,
+      "image": "montalcini.jpg"
+    },
+    {
+      "id": 10,
+      "image": "slat.jpg"
+    },
+    {
+      "id": 11,
+      "image": "tesla.JPG"
+    },
+    {
+      "id": 12,
+      "image": "tyson.jpg"
+    }
+  ]
+  
