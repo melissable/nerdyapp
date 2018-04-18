@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import Jumbotron from "./components/Jumbotron";
 import FriendCard from "./components/FriendCard";
 import Footer from "./components/Footer";
-import nerd from "./nerd.json";
+import nerd from "./nerds.json";
 import "./App.css";
 
 //sets state to 0 or empty

@@ -1,51 +1,51 @@
 [
     {
       "id": 1,
-      "image": "carson.jpg"
+      "image": "carson.png"
     },
     {
       "id": 2,
-      "image": "curie.jpeg"    
+      "image": "curie.png"    
     },
     {
       "id": 3,
-      "image": "faraday.jpg"
+      "image": "faraday.png"
     },
     {
       "id": 4,
-      "image": "frohman.jpg" 
+      "image": "frohman.png" 
     },
     {
       "id": 5,
-      "image": "hawking.jpg"
+      "image": "hawking.png"
     },
     {
       "id": 6,
-      "image": "hopper.jpg"
+      "image": "hopper.png"
     },
     {
       "id": 7,
-      "image": "lovelace.jpg"
+      "image": "lovelace.png"
     },
     {
       "id": 8,
-      "image": "mirzakhani.jpg"
+      "image": "mirzakhani.png"
     },
     {
       "id": 9,
-      "image": "montalcini.jpg"
+      "image": "montalcini.png"
     },
     {
       "id": 10,
-      "image": "slat.jpg"
+      "image": "slat.png"
     },
     {
       "id": 11,
-      "image": "tesla.JPG"
+      "image": "tesla.png"
     },
     {
       "id": 12,
-      "image": "tyson.jpg"
+      "image": "tyson.png"
     }
   ]
   
