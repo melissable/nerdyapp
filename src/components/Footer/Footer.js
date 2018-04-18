@@ -3,7 +3,7 @@ import React from "react";
 import "./Footer.css";
 
 const Footer = () => (
-	<header className = "footer">
+	<header className="footer">
 		<p>Melissa Capps</p>
 	</header>
 );
