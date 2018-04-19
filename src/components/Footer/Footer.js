@@ -3,9 +3,9 @@ import React from "react";
 import "./Footer.css";
 
 const Footer = () => (
-	<header className="footer">
+	<footer className="footer fixed-bottom mb-0 py-2">
 		<p>Melissa Capps</p>
-	</header>
+	</footer>
 );
 
 export default Footer;
