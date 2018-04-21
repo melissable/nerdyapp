@@ -3,8 +3,8 @@ import React from "react";
 import "./Footer.css";
 
 const Footer = () => (
-	<footer className="footer fixed-bottom mb-0 py-2">
-		<p>Melissa Capps</p>
+	<footer className="footer fixed-bottom mb-0 align-items-center">
+		<p className="py-2">Melissa Capps &#169; 2018</p>
 	</footer>
 );
 

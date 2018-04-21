@@ -15,7 +15,7 @@ class App extends Component {
     score: 0
   };
 
-//when you click on a card ... a nerd is taken out of the array
+//when you click on a card ... one less nerd in the array
   imageClick = event => {
     const currentNerd = event.target.alt;
     const NerdAlreadyClicked =
@@ -32,7 +32,7 @@ class App extends Component {
       });
         alert("True scientists test a new idea. Want to play again?");
 
-//if you click on an available nerd, your score is increased and cards reshuffled
+//if you click on an available nerd, your score is increased by one and cards reshuffled
     } else {
       this.setState(
         {
@@ -44,7 +44,7 @@ class App extends Component {
           ),
           score: this.state.score + 1
         },
-//if you get all 12 nerd corrent you get a congrats message and the game resets        
+//if you get all 12 nerds correct you get congrats and the game resets        
         () => {
           if (this.state.score === 12) {
             alert("Eureka! You are now eligible for an award!");
